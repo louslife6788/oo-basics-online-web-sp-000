@@ -1,3 +1,4 @@
 
 class Book
-  def initailize(tittle)
+  def initailize(title)
+    
