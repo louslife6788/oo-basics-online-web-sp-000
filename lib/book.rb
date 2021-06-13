@@ -8,6 +8,8 @@ class Book
 
   end
 
+  def turn_page(page_count)
+
 
 
 
